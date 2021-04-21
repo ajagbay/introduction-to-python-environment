@@ -1,3 +1,6 @@
 {
+    "overrides": {
+        "code-font-family": "IBM Plex Mono"
+    },
     "theme": "JLDracula"
 }
